@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer and discord moderator from Hungary</h3>
 <img align="right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/stickman-icegif-7.gif">
 <p align="left"> 
-
+<h3 align="left">About:</h3>
 - 🔭 I’m currently working on **My personal portfolio**
 
 - 🌱 I’m currently learning **React Native**
