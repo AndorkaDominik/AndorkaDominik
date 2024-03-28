@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif)](https://andorkavk.hu)
+ <! –– [![MasterHead](https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif)](https://andorkavk.hu)  ––>
 <h1 align="center">Hi 👋, I'm Andorka Dominik</h1>
 <h3 align="center">A passionate frontend developer and discord moderator from Hungary</h3>
 <img align="right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/stickman-icegif-7.gif">
