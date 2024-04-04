@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andorka Dominik</h1>
 <h3 align="center">A passionate frontend developer and discord moderator from Hungary</h3>
-**`Digital Craftsman (Developer/Moderator/Creator)`**
+
+**`Digital Member(Developer/Moderator/Creator)`**
 <img align="right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/stickman-icegif-7.gif">
 <p align="left"> 
 <h3 align="left">About:</h3>
