@@ -41,11 +41,11 @@
 <br> 
 
 <div width="100%" align="center">
-  <a align="center" href="https://github.com/AndorkaDominik/weather-app" title="Weather App">
+  <a align="center" href="https://github.com/AndorkaDominik/Weather-App" title="Weather App">
     <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AndorkaDominik&repo=Weather-App&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a align="center" href="https://github.com/AndorkaDominik/pomodoro-timer" title="Pomodoro Timer">
+  <a align="center" href="https://github.com/AndorkaDominik/Quiz-App" title="Pomodoro Timer">
     <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AndorkaDominik&repo=Quiz-App&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
   </a>
 </div>
@@ -53,11 +53,11 @@
 <br/>
 
 <div width="100%" align="center">
-  <a align="center" href="https://github.com/AndorkaDominik/cycle-x" title="Cycle-X">
+  <a align="center" href="https://github.com/AndorkaDominik/To-Do-List-App" title="Cycle-X">
     <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AndorkaDominik&repo=To-Do-List-App&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a align="center" href="https://github.com/AndorkaDominik/health-nexus" title="Health Nexus">
+  <a align="center" href="https://github.com/AndorkaDominik/Stop-Watch-Ap" title="Health Nexus">
     <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AndorkaDominik&repo=Stop-Watch-App&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
   </a>
 </div>
