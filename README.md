@@ -1,37 +1,69 @@
-<h1 align="center">Hi 👋, I'm Andorka Dominik</h1>
-<h3 align="center">A passionate frontend developer and discord moderator from Hungary</h3>
+<div align=center>
+  <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=FFFFFF&center=true&width=520&lines=Hey+there!+My+name+is+Andorka+Dominik;I'm+a+Web+Developer" alt="Typing SVG" /></a>
+</div>
 
-**`Digital Member(Developer/Moderator/Creator)`**
-<img align="right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/stickman-icegif-7.gif">
-<p align="left"> 
-<h3 align="left">About:</h3>
+<br />
 
- - 🔭 I’m currently working on **My personal portfolio**
+<div align=center>
+  <a href="https://github.com/AndorkaDominik/">
+    <img src="https://github-readme-stats.vercel.app/api?username=AndorkaDominik&show_icons=true&icon_color=FFFFFF&theme=dark&bg_color=FFFFFF00&hide_title=true&hide_border=true&hide=prs&include_all_commits=true" />
+  </a>
+</div>
 
-- 🌱 I’m currently learning **React Native**
+<div align="center">
+  <img alt="Type" src="https://img.shields.io/badge/typescript-000000?style=for-the-badge&color=FFFFFF" />
+  <img alt="Type" src="https://img.shields.io/badge/react-000000?style=for-the-badge&color=FFFFFF" />
+  <img alt="Type" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&color=FFFFFF" />
+  <br/>
+  <img alt="Type" src="https://img.shields.io/badge/java-000000?style=for-the-badge&color=FFFFFF" />
+  <img alt="Type" src="https://img.shields.io/badge/spring-000000?style=for-the-badge&color=FFFFFF" />
+  <img alt="Type" src="https://img.shields.io/badge/python-000000?style=for-the-badge&color=FFFFFF" />
+  <br/>
+  <img alt="Type" src="https://img.shields.io/badge/react_native-000000?style=for-the-badge&color=FFFFFF" />
+</div>
 
-- 💬 Ask me about **Frontend development, Discord moderation, Tiktok automation**
+<br><br>
 
-- 📫 How to reach me **dominik.andorka@gmail.com**
+<div align="center">
+  <a href="https://www.linkedin.com/in/dominik-andorka-86820427b">
+    <img src="https://img.shields.io/badge/LinkedIn%20-%0A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=000000&color=FFFFFF" target="_blank"/>
+  </a>
+  &nbsp;
+  <a href="https://www.andorkavk.hz">
+    <img src="https://img.shields.io/badge/Latest_Project%20-%FFFFFF.svg?&style=for-the-badge&logo=Vercel&logoColor=000000&color=FFFFFF" target="_blank"/>
+  </a>
+</div>
 
-### 🧰 Languages and Tools
-<p align="left">
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<hr>
+
+<h3 align="center"><img src="https://slackmojis.com/emojis/59967-duck_dance/download" width="30"/>&nbsp;&nbsp;B E S T &nbsp; R E P O S I T O R I E S&nbsp;&nbsp;<img src="https://slackmojis.com/emojis/59967-duck_dance/download" width="30"/></h3>
+
+<br> 
+
+<div width="100%" align="center">
+  <a align="center" href="https://github.com/AndorkaDominik/weather-app" title="Weather App">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AndorkaDominik&repo=Weather-App&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a align="center" href="https://github.com/AndorkaDominik/pomodoro-timer" title="Pomodoro Timer">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AndorkaDominik&repo=Quiz-App&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
+  </a>
+</div>
+
+<br/>
+
+<div width="100%" align="center">
+  <a align="center" href="https://github.com/AndorkaDominik/cycle-x" title="Cycle-X">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AndorkaDominik&repo=To-Do-List-App&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a align="center" href="https://github.com/AndorkaDominik/health-nexus" title="Health Nexus">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AndorkaDominik&repo=Stop-Watch-App&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
+  </a>
+</div>
+
 <br>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-</p>
-<details>
- <summary><h3>👨‍💻 My Coding Journey</h3></summary>
-   In highschool, I started to learn web development from youtube videos and it went quite well. I made a website for my Family's company, which brought a lot of clients for our company AndorkaVK. I started my coding journey as a computer science student with a passion to learn everything I could about this programming world. And all the while, teaching myself Frontend development with a dream to build my own websites. I made a couple of projects on my own and learning more and more since then. However, I had another desire I had been pursuing throughout this time - Tiktok content creation. I started it tiktok content creation in January of 2024, since then I am making faceless content, it went viral. On March 2024, I started learning more and more about discord, group moderation, etc. Currently, I am studying at the Budapest University of Technology and Economics, one of the most well-known universities in Hungary
+
+<h4 align="center">
+  <a href="https://github.com/AndorkaDominik?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
