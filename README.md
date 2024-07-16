@@ -66,6 +66,13 @@
 
 <br/>
 
+<hr />
+<h3 align="center">&nbsp;&nbsp;M O R E &nbsp; S T A T S&nbsp;&nbsp;</h3>
+
+<div align="center">
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-one-pi.vercel.app?user=AndorkaDominik&theme=highcontrast&hide_border=true&background=transparent" alt="GitHub Streak" /></a>
+</div>
+
 <h4 align="center">
   <a href="https://github.com/AndorkaDominik?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
