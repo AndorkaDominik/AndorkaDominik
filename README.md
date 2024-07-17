@@ -76,3 +76,10 @@
 <h4 align="center">
   <a href="https://github.com/AndorkaDominik?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
+
+<hr />
+<div align="center">
+  
+  ![Cool looking snake](./github-snake.svg)
+
+</div>
