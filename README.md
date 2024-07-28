@@ -72,7 +72,7 @@
 <br/>
 
 <hr />
-<h3 align="center">&nbsp;&nbsp;M O R E &nbsp; S T A T S&nbsp;&nbsp;</h3>
+<h3 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1712916265/92029/pedro.gif?1712916265" width="30"/>&nbsp;&nbsp;M O R E &nbsp; S T A T S&nbsp;&nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1712916265/92029/pedro.gif?1712916265" width="30"/></h3>
 
 <div align="center">
  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-one-pi.vercel.app?user=AndorkaDominik&theme=highcontrast&hide_border=true&background=transparent" alt="GitHub Streak" /></a>
@@ -82,5 +82,13 @@
 <div align="center">
   
   ![Cool looking snake](./github-snake.svg)
+
+</div>
+
+<hr />
+
+<div align="center">
+
+<img src="https://emojis.slackmojis.com/emojis/images/1721793844/95229/nookoutq.gif?1721793844" width="50%" />
 
 </div>
