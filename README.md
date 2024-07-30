@@ -43,7 +43,20 @@
 <br> 
 
 <div width="100%" align="center">
-  <a align="center" href="https://github.com/AndorkaDominik/Tic-Tac-Toe" title="To-Do-List-App">
+  <a align="center" href="https://github.com/AndorkaDominik/CryptoTracker" title="CryptoTracker">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AndorkaDominik&repo=CryptoTracker&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+   <a align="center" href="https://github.com/AndorkaDominik/Quiz" title="Quiz">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AndorkaDominik&repo=Quiz&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
+  </a>
+  
+</div>
+
+<br> 
+
+<div width="100%" align="center">
+  <a align="center" href="https://github.com/AndorkaDominik/Tic-Tac-Toe" title="Tic-Tac-Toe">
     <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AndorkaDominik&repo=Tic-Tac-Toe&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
   </a>
   &nbsp;&nbsp;&nbsp;
