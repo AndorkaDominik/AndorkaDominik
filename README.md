@@ -55,21 +55,20 @@
 <br> 
 
 <div width="100%" align="center">
-  <a align="center" href="https://github.com/AndorkaDominik/Tic-Tac-Toe" title="Tic-Tac-Toe">
-    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AndorkaDominik&repo=Tic-Tac-Toe&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
+  <a align="center" href="https://github.com/AndorkaDominik/StudentScoreboard" title="Calculator-App">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AndorkaDominik&repo=StudentScoreboard&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
   </a>
   &nbsp;&nbsp;&nbsp;
-   <a align="center" href="https://github.com/AndorkaDominik/Weather-App" title="Weather-App">
-    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AndorkaDominik&repo=Weather-App&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
-  </a>
-  
+  <a align="center" href="https://github.com/AndorkaDominik/Tic-Tac-Toe" title="Tic-Tac-Toe">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AndorkaDominik&repo=Tic-Tac-Toe&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
+  </a>  
 </div>
 
 <br />
 
 <div width="100%" align="center">
-  <a align="center" href="https://github.com/AndorkaDominik/Calculator" title="Calculator-App">
-    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AndorkaDominik&repo=Calculator&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
+ <a align="center" href="https://github.com/AndorkaDominik/Weather-App" title="Weather-App">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AndorkaDominik&repo=Weather-App&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
   </a>
   &nbsp;&nbsp;&nbsp;
    <a align="center" href="https://github.com/AndorkaDominik/Quiz-App" title="Quiz-App">
