@@ -71,8 +71,8 @@
     <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AndorkaDominik&repo=Weather-App&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
   </a>
   &nbsp;&nbsp;&nbsp;
-   <a align="center" href="https://github.com/AndorkaDominik/Quiz-App" title="Quiz-App">
-    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AndorkaDominik&repo=Quiz-App&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
+   <a align="center" href="https://github.com/AndorkaDominik/Treasure" title="Treasure">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AndorkaDominik&repo=Treasure&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
    </a>
 </div>
 
