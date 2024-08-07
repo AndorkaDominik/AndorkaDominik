@@ -55,7 +55,7 @@
 <br> 
 
 <div width="100%" align="center">
-  <a align="center" href="https://github.com/AndorkaDominik/StudentScoreboard" title="Calculator-App">
+  <a align="center" href="https://github.com/AndorkaDominik/StudentScoreboard" title="StudentScoreboard">
     <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AndorkaDominik&repo=StudentScoreboard&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
   </a>
   &nbsp;&nbsp;&nbsp;
