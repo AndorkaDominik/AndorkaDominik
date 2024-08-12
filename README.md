@@ -68,8 +68,8 @@
 <br />
 
 <div width="100%" align="center">
- <a align="center" href="https://github.com/AndorkaDominik/Weather-App" title="Weather-App">
-    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AndorkaDominik&repo=Weather-App&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
+ <a align="center" href="https://github.com/AndorkaDominik/LearnLab" title="LearnLab">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AndorkaDominik&repo=LearnLab&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
   </a>
   &nbsp;&nbsp;&nbsp;
    <a align="center" href="https://github.com/AndorkaDominik/Treasure" title="Treasure">
