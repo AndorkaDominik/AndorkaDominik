@@ -43,13 +43,24 @@
 <br> 
 
 <div width="100%" align="center">
-  <a align="center" href="https://github.com/AndorkaDominik/CryptoTracker" title="CryptoTracker">
-    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AndorkaDominik&repo=CryptoTracker&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
+  <a align="center" href="https://github.com/AndorkaDominik/LearnJava" title="LearnJava">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AndorkaDominik&repo=LearnJava&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
   </a>
   &nbsp;&nbsp;&nbsp;
    <a align="center" href="https://github.com/AndorkaDominik/Quiz" title="Quiz">
     <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AndorkaDominik&repo=Quiz&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
   </a>
+  
+</div>
+<br> 
+<div width="100%" align="center">
+  <a align="center" href="https://github.com/AndorkaDominik/CryptoTracker" title="CryptoTracker">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AndorkaDominik&repo=CryptoTracker&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+   <a align="center" href="https://github.com/AndorkaDominik/PhoneBook" title="PhoneBook">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AndorkaDominik&repo=PhoneBook&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
+  </a>  
   
 </div>
 
@@ -60,21 +71,9 @@
     <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AndorkaDominik&repo=StudentScoreboard&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a align="center" href="https://github.com/AndorkaDominik/PhoneBook" title="PhoneBook">
-    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AndorkaDominik&repo=PhoneBook&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
-  </a>  
-</div>
-
-<br />
-
-<div width="100%" align="center">
- <a align="center" href="https://github.com/AndorkaDominik/LearnLab" title="LearnLab">
+  <a align="center" href="https://github.com/AndorkaDominik/LearnLab" title="LearnLab">
     <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AndorkaDominik&repo=LearnLab&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
   </a>
-  &nbsp;&nbsp;&nbsp;
-   <a align="center" href="https://github.com/AndorkaDominik/Treasure" title="Treasure">
-    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AndorkaDominik&repo=Treasure&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
-   </a>
 </div>
 
 <h4 align="center">
