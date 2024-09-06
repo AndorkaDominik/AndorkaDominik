@@ -96,7 +96,6 @@
 
 <div align="center">
  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-one-pi.vercel.app?user=AndorkaDominik&theme=highcontrast&hide_border=true&background=transparent" alt="GitHub Streak" /></a>
-  <img width=325 align="center" src="https://github-readme-stats-AndorkaDominik.vercel.app/api/top-langs/?username=AndorkaDominik&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <hr />
