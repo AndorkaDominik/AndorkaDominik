@@ -29,6 +29,10 @@
 <br><br>
 
 <div align="center">
+  <a href="mailto:dominik.andorka@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail%20-%0A66C2.svg?&style=for-the-badge&logo=gmail&logoColor=000000&color=FFFFFF" target="_blank" />
+  </a>
+   &nbsp;
   <a href="https://www.linkedin.com/in/dominik-andorka-86820427b">
     <img src="https://img.shields.io/badge/LinkedIn%20-%0A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=000000&color=FFFFFF" target="_blank"/>
   </a>
