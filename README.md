@@ -87,28 +87,3 @@
 </h4>
 
 <br/>
-
-# 💻 Featured YouTube Videos
-[![5 things I wish I knew before studying Computer Science](https://ytcards.demolab.com/?id=v_6gFZ2MKjE&title=Master+React+with+TypeScript&lang=en&timestamp=1724528500&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=88 "Master React with TypeScript | TypeScript Course Overview")](https://youtu.be/v_6gFZ2MKjE?si=b7QYksN87h0wsGpQ)
-
-<hr />
-<h3 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1712916265/92029/pedro.gif?1712916265" width="30"/>&nbsp;&nbsp;M O R E &nbsp; S T A T S&nbsp;&nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1712916265/92029/pedro.gif?1712916265" width="30"/></h3>
-
-<div align="center">
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-one-pi.vercel.app?user=AndorkaDominik&theme=highcontrast&hide_border=true&background=transparent" alt="GitHub Streak" /></a>
-</div>
-
-<hr />
-<div align="center">
-  
-  ![Cool looking snake](./github-snake.svg)
-
-</div>
-
-<hr />
-
-<div align="center">
-
-<img src="https://emojis.slackmojis.com/emojis/images/1721793844/95229/nookoutq.gif?1721793844" width="50%" />
-
-</div>
