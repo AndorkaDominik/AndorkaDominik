@@ -26,7 +26,7 @@
   <img alt="Type" src="https://img.shields.io/badge/autohotkey-000000?style=for-the-badge&color=FFFFFF" />
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
   <a href="mailto:dominik.andorka@gmail.com">
