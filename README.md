@@ -73,3 +73,21 @@
 
   
 </div>
+
+<br /><br />
+<div align="center">
+  
+## Blog
+
+  <a href="https://andorkadominik.hu/blog/rendering">
+    <img src="https://img.shields.io/badge/Rendering solution%20-%0A66C2.svg?&style=for-the-badge&logoColor=000000&color=FFFFFF" target="_blank" />
+  </a>
+   &nbsp;
+  <a href="https://andorkadominik.hu/blog/highlight">
+    <img src="https://img.shields.io/badge/Colorful challange%20-%0A66C2.svg?&style=for-the-badge&logoColor=000000&color=FFFFFF" target="_blank"/>
+  </a>
+  &nbsp;
+  <a href="https://andorkadominik.hu/blog/scripts">
+    <img src="https://img.shields.io/badge/Scripts%20-%FFFFFF.svg?&style=for-the-badge&logoColor=000000&color=FFFFFF" target="_blank"/>
+  </a>  
+</div>
