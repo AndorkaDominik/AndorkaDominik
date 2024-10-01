@@ -59,7 +59,7 @@
     <img src="https://img.shields.io/badge/LearnJava%20-%FFFFFF.svg?&style=for-the-badge&logoColor=000000&color=FFFFFF" target="_blank"/>
   </a>
    &nbsp;
-  <a href="https://andorkadominik.github.io/Recime/">
+  <a href="https://andorkadominik.github.io/ReciMe/">
     <img src="https://img.shields.io/badge/Receptjeim%20-%FFFFFF.svg?&style=for-the-badge&logoColor=000000&color=FFFFFF" target="_blank"/>
   </a>
   <br />
