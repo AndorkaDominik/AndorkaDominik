@@ -50,28 +50,23 @@
   <a href="https://convertme-wine.vercel.app/">
     <img src="https://img.shields.io/badge/ConvertMe%20-%0A66C2.svg?&style=for-the-badge&logoColor=000000&color=FFFFFF" target="_blank" />
   </a>
-   &nbsp;
   <a href="https://andorkadominik.github.io/Quiz/">
     <img src="https://img.shields.io/badge/Quiz%20-%0A66C2.svg?&style=for-the-badge&logoColor=000000&color=FFFFFF" target="_blank"/>
   </a>
-  &nbsp;
   <a href="https://andorkadominik.github.io/LearnJava/">
     <img src="https://img.shields.io/badge/LearnJava%20-%FFFFFF.svg?&style=for-the-badge&logoColor=000000&color=FFFFFF" target="_blank"/>
   </a>
-   &nbsp;
   <a href="https://andorkadominik.github.io/ReciMe/">
     <img src="https://img.shields.io/badge/Receptjeim%20-%FFFFFF.svg?&style=for-the-badge&logoColor=000000&color=FFFFFF" target="_blank"/>
   </a>
   <br />
-   &nbsp;
+  
   <a href="https://andorkadominik.github.io/LearnLab/">
     <img src="https://img.shields.io/badge/LearnLab%20-%FFFFFF.svg?&style=for-the-badge&logoColor=000000&color=FFFFFF" target="_blank"/>
   </a> 
-   &nbsp;
   <a href="https://andorkadominik.github.io/Tic-Tac-Toe/">
     <img src="https://img.shields.io/badge/TicTacToe%20-%FFFFFF.svg?&style=for-the-badge&logoColor=000000&color=FFFFFF" target="_blank"/>
   </a> 
-   &nbsp;
    <a href="https://andorkadominik.github.io/Weather-App/">
     <img src="https://img.shields.io/badge/Weather%20-%FFFFFF.svg?&style=for-the-badge&logoColor=000000&color=FFFFFF" target="_blank"/>
   </a>
@@ -87,11 +82,9 @@
   <a href="https://andorkadominik.hu/blog/rendering">
     <img src="https://img.shields.io/badge/Rendering solution%20-%0A66C2.svg?&style=for-the-badge&logoColor=000000&color=FFFFFF" target="_blank" />
   </a>
-   &nbsp;
   <a href="https://andorkadominik.hu/blog/highlight">
     <img src="https://img.shields.io/badge/Colorful challange%20-%0A66C2.svg?&style=for-the-badge&logoColor=000000&color=FFFFFF" target="_blank"/>
   </a>
-  &nbsp;
   <a href="https://andorkadominik.hu/blog/scripts">
     <img src="https://img.shields.io/badge/Scripts%20-%FFFFFF.svg?&style=for-the-badge&logoColor=000000&color=FFFFFF" target="_blank"/>
   </a>  
