@@ -30,12 +30,12 @@
     <img src="https://img.shields.io/badge/Gmail%20-%0A66C2.svg?&style=for-the-badge&logo=gmail&logoColor=000000&color=FFFFFF" target="_blank" />
   </a>
    &nbsp;
-  <a href="https://www.linkedin.com/in/dominik-andorka-86820427b">
-    <img src="https://img.shields.io/badge/LinkedIn%20-%0A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=000000&color=FFFFFF" target="_blank"/>
-  </a>
-  &nbsp;
   <a href="https://andorkadominik.hu/">
     <img src="https://img.shields.io/badge/Portfolio%20-%FFFFFF.svg?&style=for-the-badge&logo=Vercel&logoColor=000000&color=FFFFFF" target="_blank"/>
+  </a>
+  &nbsp;
+   <a href="https://www.linkedin.com/in/dominik-andorka-86820427b">
+    <img src="https://img.shields.io/badge/LinkedIn%20-%0A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=000000&color=FFFFFF" target="_blank"/>
   </a>
 </div>
 
@@ -50,13 +50,16 @@
   <a href="https://andorkadominik.github.io/Quiz/">
     <img src="https://img.shields.io/badge/Quiz%20-%0A66C2.svg?&style=for-the-badge&logoColor=000000&color=FFFFFF" target="_blank"/>
   </a>
+  <a href="https://echo-gpt-iota.vercel.app/">
+    <img src="https://img.shields.io/badge/EchoGPT%20-%FFFFFF.svg?&style=for-the-badge&logoColor=000000&color=FFFFFF" target="_blank"/>
+  </a>
   <a href="https://andorkadominik.github.io/LearnJava/">
     <img src="https://img.shields.io/badge/LearnJava%20-%FFFFFF.svg?&style=for-the-badge&logoColor=000000&color=FFFFFF" target="_blank"/>
   </a>
+  <br />
   <a href="https://andorkadominik.github.io/ReciMe/">
     <img src="https://img.shields.io/badge/Receptjeim%20-%FFFFFF.svg?&style=for-the-badge&logoColor=000000&color=FFFFFF" target="_blank"/>
   </a>
-  <br />
   
   <a href="https://andorkadominik.github.io/LearnLab/">
     <img src="https://img.shields.io/badge/LearnLab%20-%FFFFFF.svg?&style=for-the-badge&logoColor=000000&color=FFFFFF" target="_blank"/>
@@ -67,6 +70,7 @@
    <a href="https://andorkadominik.github.io/Weather-App/">
     <img src="https://img.shields.io/badge/Weather%20-%FFFFFF.svg?&style=for-the-badge&logoColor=000000&color=FFFFFF" target="_blank"/>
   </a>
+  
 
   
 </div>
