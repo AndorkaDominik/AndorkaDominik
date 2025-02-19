@@ -15,11 +15,12 @@
   <img alt="Type" src="https://img.shields.io/badge/javascript-000000?style=for-the-badge&color=FFFFFF" />
   <img alt="Type" src="https://img.shields.io/badge/typescript-000000?style=for-the-badge&color=FFFFFF" />
   <br/>
-  <img alt="Type" src="https://img.shields.io/badge/python-000000?style=for-the-badge&color=FFFFFF" />
+  <img alt="Type" src="https://img.shields.io/badge/C#-000000?style=for-the-badge&color=FFFFFF" />
   <img alt="Type" src="https://img.shields.io/badge/java-000000?style=for-the-badge&color=FFFFFF" />
   <img alt="Type" src="https://img.shields.io/badge/c++-000000?style=for-the-badge&color=FFFFFF" />
   <br/>
   <img alt="Type" src="https://img.shields.io/badge/c-000000?style=for-the-badge&color=FFFFFF" />
+  <img alt="Type" src="https://img.shields.io/badge/python-000000?style=for-the-badge&color=FFFFFF" />
   <img alt="Type" src="https://img.shields.io/badge/autohotkey-000000?style=for-the-badge&color=FFFFFF" />
 </div>
 
