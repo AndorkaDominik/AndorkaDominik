@@ -7,3 +7,9 @@
     <img src="https://github-readme-stats.vercel.app/api?username=AndorkaDominik&show_icons=true&icon_color=FFFFFF&theme=dark&bg_color=FFFFFF00&hide_title=true&hide_border=true&hide=stars&include_all_commits=true" />
   </a>
 </div>
+
+
+<img alt="Type" src="https://img.shields.io/badge/c%23-000000?style=for-the-badge&color=FFFFFF" />
+  <img alt="Type" src="https://img.shields.io/badge/c++-000000?style=for-the-badge&color=FFFFFF" />
+  <img alt="Type" src="https://img.shields.io/badge/c-000000?style=for-the-badge&color=FFFFFF" />
+  <img alt="Type" src="https://img.shields.io/badge/java-000000?style=for-the-badge&color=FFFFFF" />
