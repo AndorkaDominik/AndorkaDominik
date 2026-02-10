@@ -2,13 +2,6 @@
   <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=FFFFFF&center=true&width=520&lines=Hey+there!+My+name+is+Andorka+Dominik;I'm+a+Web+Developer;I'm+a+Syntax+Error+Enthusiast" alt="Typing SVG" /></a>
 </div>
 
-<br />
-
-<div align=center>
-  <a href="https://github.com/AndorkaDominik/">
-    <img src="https://github-readme-stats.vercel.app/api?username=AndorkaDominik&show_icons=true&icon_color=FFFFFF&theme=dark&bg_color=FFFFFF00&hide_title=true&hide_border=true&hide=stars&include_all_commits=true" />
-  </a>
-</div>
 
 <div align="center">
   <img alt="Type" src="https://img.shields.io/badge/react-000000?style=for-the-badge&color=FFFFFF" />
